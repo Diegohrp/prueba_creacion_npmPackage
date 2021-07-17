@@ -5,7 +5,7 @@ Prueba para crear un paquete para npm
 
 prints a random name from a friend of mine
 
-## Install
+# Install
 
 ```npm
 npm install -g mispanas_dhp
@@ -18,7 +18,7 @@ mispanas
 ```
 
 # Contributing
-If someone wants to add or improve something, I invite you to collaborate directly in this repository: [random-msg](https://github.com/Diegohrp/prueba_creacion_npmPackage)
+If someone wants to add or improve something, I invite you to collaborate directly in this repository: [mispanas_dhp](https://github.com/Diegohrp/prueba_creacion_npmPackage)
 
 # License
 random-msg is released under the [MIT License](https://opensource.org/licenses/MIT).
