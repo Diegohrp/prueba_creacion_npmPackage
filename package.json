@@ -1,6 +1,6 @@
 {
   "name": "mispanas_dhp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "first example of a npm package",
   "main": "src/index.js",
   "scripts": {
