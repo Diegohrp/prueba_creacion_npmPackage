@@ -15,7 +15,15 @@
   "author": "Diego Herrera <diego.blake11@gmail.com>",
   "license": "MIT",
   "bin": {
-    "mispanas": "./bin/global2.mjs"
+    "mispanas": "bin/global2.mjs"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diegohrp/prueba_creacion_npmPackage.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Diegohrp/prueba_creacion_npmPackage/issues"
+  },
+  "homepage": "https://github.com/Diegohrp/prueba_creacion_npmPackage#readme"
 }
